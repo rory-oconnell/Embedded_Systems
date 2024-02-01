@@ -1,5 +1,7 @@
 #include <Keyboard.h>
 
+// This is the new version
+
 // Define key constants
 char ctrlKey = KEY_LEFT_CTRL;
 char altKey = KEY_LEFT_ALT;
